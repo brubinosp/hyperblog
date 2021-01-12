@@ -4,5 +4,6 @@ Actualmente lleva el curso de Desarrollo web en Platzi y su meta a corto plazo e
 
 Experimento 1
 
-Master 1
-Master 2
+Experimento 2
+
+Master 1Master 2
